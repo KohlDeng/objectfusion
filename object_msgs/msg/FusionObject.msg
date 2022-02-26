@@ -1,0 +1,12 @@
+uint8 id
+uint8 camera_id
+uint8 radar_id
+uint8 type
+float32 length
+float32 width
+float32 height
+object_msgs/Vector2f pos_rel
+object_msgs/Vector2f vel_rel
+object_msgs/Vector2f vel_rel_abs
+object_msgs/Vector2f acc_rel
+float32 heading
